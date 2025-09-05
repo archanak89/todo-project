@@ -1,1 +1,3 @@
 2. Practice Git commands
+3. Learn branching
+4. Merge branches
